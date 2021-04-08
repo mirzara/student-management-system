@@ -62,10 +62,10 @@
       <div class="panel-body">
             <h7 class='headding'><strong>Web Login</strong></h7>
           <br/>
- <img src="/images/school.png" class="img-responsive" style="width:70%;max-height:auto">
+ <img src="/images/logo2.jpg" class="img-responsive" style="width:32%;max-height:auto">
                 <br/>
-                <span style='font-size:14px'>Sogam Lolab,193223</span><br/>
-                <span style='font-size:14px'>Apex Model High School</span><br/>
+               
+                <span style='font-size:14px'><strong>Seoul High School</strong></span><br/>
                 <hr/>
           <?php
     if (isset($error)) {

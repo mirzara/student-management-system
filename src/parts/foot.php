@@ -11,7 +11,7 @@
             <div class="col-md-9">
               <div class="media-wrap">
                 <p class="mbr-text align-right links mbr-fonts-style display-7" style="padding-top: 1%;">
-                  Developed By: <strong>Abrar Ajaz Wani</strong><br />Phone: +91-8493081876 <br /> E-mail: abhaywani114@gmail.com
+                  Developed By: <strong>Faizan Mushtaq Mir<br> Owais Nazir Najar<br> Sheikh Abid siraj <br> Qaiser Mushtaq shah</strong> <br /> E-mail: qaisershah370@gmail.com
                 </p>
                 </div>
             </div>
@@ -25,7 +25,7 @@
             <div class="media-container-row mbr-white">
                 <div class="col-md-6 copyright">
                     <p class="mbr-text mbr-fonts-style display-7">
-                        © Copyright 2017 Networking Inc - All Rights Reserved
+                        © Copyright 2021 Networking Inc - All Rights Reserved
                     </p>
                 </div>
                 <div class="col-md-6">
