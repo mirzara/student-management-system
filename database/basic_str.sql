@@ -81,7 +81,6 @@ CREATE TABLE `login` (
 ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
 
 INSERT INTO `login` (`Index`, `username`, `password`, `type`, `date`, `auth`) VALUES
-(1,	'abrar',	'5f4dcc3b5aa765d61d8327deb882cf99',	'user',	'2017-09-20',	'8f1d43620bc6bb580df6e80b0dc05c48'),
 (3,	'zara',	'5f4dcc3b5aa765d61d8327deb882cf99',	'user',	'2017-10-01',	'cd758e8f59dfdf06a852adad277986ca');
 
 DROP TABLE IF EXISTS `nos`;
