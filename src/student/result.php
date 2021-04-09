@@ -52,7 +52,7 @@ while ($row = $result->fetch_assoc()) {
     $action = "<a href='#' onclick='view($index)'>View Profile</a>";
     }
     if ($optn == 2) {
-    $action = "<a href='#' onclick='edit($index)'>View Profile</a>";
+    $action = "<a href='#' onclick='edit($index)'>Update Profile</a>";
     }
     if ($optn == 3) {
     $action = "<a href='#' onclick='fee($index)'>Add Fee</a>";
