@@ -28,9 +28,9 @@
 
             <div class="row">
             <div class="col-md-3 fix">
-               <img src="/images/school.png" class="img-responsive" style="width:70%;max-height:auto">
+               <img src="/images/logo2.jpg" class="img-responsive" style="width:70%;max-height:auto">
                 <br/><br/>
-                <span style='font-size:14px'>Sogam Lolab, Pin-193223</span><br/>
+               
                 <hr/>
                 <span style='font-size:15px'><strong>Classes: </strong><?php
                 $qry = "SELECT NULL from `class_str`";
