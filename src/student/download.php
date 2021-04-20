@@ -10,7 +10,7 @@
 <option class="form-control" value="">Select Class</option>
 <option class="form-control" value="NULL">All Classes</option>
 <?php
-require_once __DIR__.'\..\lib\school.php';
+require_once __DIR__.'/../lib/school.php';
 $admin = new Admin();
 if ($admin->user == -1) {
 echo "<h4>Sesson Expired/Login invalid. Please reeload page<h4>";

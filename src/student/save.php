@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__.'\..\lib\school.php';
+require_once __DIR__.'/../lib/school.php';
 $admin = new Admin();
 if ($admin->user == -1) {
 echo "<h4>Sesson Expired/Login invalid. Please reload page<h4>";

@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__.'\lib\school.php';
+require_once __DIR__.'/lib/school.php';
 $admin = new Admin();
 if (isset($_POST['username']) and isset($_POST['password'])) {
 $username = mysqli_escape_string($admin->conn,$_POST['username']);
