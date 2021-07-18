@@ -12,8 +12,8 @@ $password = md5($_POST['password']);
       header ('Location: /index.php');
  } else {
      $error = 1;
-     require_once __DIR__.'\parts\head.php';
+     require_once __DIR__.'/parts/head.php';
      include ('login.php');
-     require_once __DIR__.'\parts\foot.php';
+     require_once __DIR__.'/parts/foot.php';
 }
 ?>
