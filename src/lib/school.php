@@ -149,6 +149,10 @@ class Admin
 								return $string;
 				}
 
+				public function class_stu($code) {
+					return 0;
+				}
+
 				public function __destruct()
 				{
 								$this->conn->close();
