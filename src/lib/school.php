@@ -152,6 +152,9 @@ class Admin
 				public function class_stu($code) {
 					return 0;
 				}
+				public function bus_stu($code) {
+					return 0;
+				}
 
 				public function __destruct()
 				{
