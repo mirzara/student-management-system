@@ -65,7 +65,7 @@
  <img src="/images/logo2.jpg" class="img-responsive" style="width:32%;max-height:auto">
                 <br/>
                
-                <span style='font-size:14px'><strong>Seoul High School</strong></span><br/>
+                
                 <hr/>
           <?php
     if (isset($error)) {
