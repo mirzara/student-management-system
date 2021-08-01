@@ -82,7 +82,9 @@ echo '<tt class="text-danger">Session Expired</tt>';
  <input class="form-control" placeholder="Password" name="password" type="password" required>
           <br/>
 <input class="btn btn-primary btn-md" type="submit" value="Login">
+
 </div>
     </div>
     </form>
+    
 </div>

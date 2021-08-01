@@ -59,7 +59,7 @@ EOD;
 
 </div>
 <script>
-setform('#save_form','#form_div');
+setform('#save_form','#form_div'); /* form-div , sheet*/
 function sheet(index) {
     url = '../result/sheet.php?index=' + index;
     getL(url);
