@@ -10,7 +10,7 @@ if ($admin->user == -1)
 $index = mysqli_real_escape_string($admin->conn, $_POST['index']);
 $bus_fee = mysqli_real_escape_string($admin->conn, $_POST['bus_fee']);
 $class_fee = mysqli_real_escape_string($admin->conn, $_POST['class_fee']);
-$total = $bus_fee + $class_fee;
+$total = ($bus_fee==null? 0:$bus_fee) + $class_fee;
 $n_month = mysqli_real_escape_string($admin->conn, $_POST['n_month']);
 $remarks = mysqli_real_escape_string($admin->conn, $_POST['remarks']);
 $n_late_fee = mysqli_real_escape_string($admin->conn,$_POST['latefee_no']);
